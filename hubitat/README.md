@@ -1,4 +1,4 @@
-## SmartThings-Mqqt bridge Add-on for Hass.io
+## Hubitat-Mqqt bridge Add-on for Hass.io
 
  Bridge for pairing Hass.io and Hubitat Hub. More details [here](https://github.com/jeubanks/hubitat-mqtt-bridge)
 
