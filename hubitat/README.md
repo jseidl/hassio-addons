@@ -1,6 +1,6 @@
 ## SmartThings-Mqqt bridge Add-on for Hass.io
 
- Bridge for pairing Hass.io and Samsung SmartThings. More details [here](https://github.com/stjohnjohnson/smartthings-mqtt-bridge)
+ Bridge for pairing Hass.io and Hubitat Hub. More details [here](https://github.com/jeubanks/hubitat-mqtt-bridge)
 
 Everything is configurable through UI. Available params:
 
