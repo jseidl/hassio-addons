@@ -3,6 +3,7 @@
     "version": "0.0.3",
     "slug": "hubitat",
     "description": "Hubitat Mqtt Bridge (https://github.com/jeubanks/hubitat-mqtt-bridge)",
+    "arch": ["amd64"],
     "url": "https://github.com/bmcgair/hassio-addons/tree/master/hubitat",
     "image": "bmcgair/{arch}-hubitat",
     "startup": "before",
