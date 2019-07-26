@@ -5,7 +5,7 @@
     "description": "Hubitat Mqtt Bridge (https://github.com/jeubanks/hubitat-mqtt-bridge)",
     "arch": ["amd64","armv7"],
     "url": "https://github.com/jseidl/hassio-addons/tree/master/hubitat",
-    "image": "armv7/armhf-ubuntu",
+    "image": "arm32v7/ubuntu",
     "startup": "before",
     "boot": "auto",
     "host_network": true,
